@@ -28,11 +28,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/chating_hub09"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+lGwpQNrD8qdiNmRl"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="(https://t.me/https://t.me/+Q25anL0Ckuk5NzM1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="(https://t.me/+lGwpQNrD8qdiNmRl"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
