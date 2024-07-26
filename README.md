@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+POWERED+BY+GUNJAN+SINGH+KING+BHAGALPUR+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>❃ 𝐁ᴀʙʏ 𝐗 𝐓ᴜɴᴇ ❃ </b></h1>
+<h1 align="center"><b>❃ ◄─❥͜͡≛⃝🇬𝐮𝐧𝐣𝐚𝐧 ❃ </b></h1>
 <p align="center"><a href="https://UTTAM470"><img src="https://graph.org/file/94918b340445db8a72c02.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
