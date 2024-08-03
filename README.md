@@ -1,4 +1,4 @@
-# Jaanu x music 
+# Disha x music 
 <h1 align="center"
  
 ### 🚩🚩 जय बजरंग बली 🚩🚩
