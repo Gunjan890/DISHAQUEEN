@@ -8,7 +8,9 @@ gitpython
 hachoir
 heroku3
 motor
-pillow==10.0.1
+numpy
+opencv-python
+pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
@@ -20,6 +22,7 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
+uvloop
 yt-dlp
 youtube-search
 youtube-search-python
