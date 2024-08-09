@@ -4,7 +4,7 @@ from BABYMUSIC.core.git import git
 from BABYMUSIC.core.userbot import Userbot
 from BABYMUSIC.misc import dbb, heroku
 
-from SafoneAPI import SafoneAPI
+from BabyAPI import BabyAPI
 from .logging import LOGGER
 
 dirr()
@@ -13,7 +13,7 @@ dbb()
 heroku()
 
 app = baby()
-api = SafoneAPI()
+api = BabyAPI()
 userbot = Userbot()
 
 
