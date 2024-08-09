@@ -1,4 +1,4 @@
-from BABYMUSIC.core.bot import Hotty
+from BABYMUSIC.core.bot import Baby
 from BABYMUSIC.core.dir import dirr
 from BABYMUSIC.core.git import git
 from BABYMUSIC.core.userbot import Userbot
